@@ -95,3 +95,4 @@ Desenvolvido por Alves Belem
 
 🔗 GitHub: github.com/AlvesBelem
 
+<img width="1940" height="852" alt="image" src="https://github.com/user-attachments/assets/78747041-4488-419f-a143-d2e1f77acd3d" />
